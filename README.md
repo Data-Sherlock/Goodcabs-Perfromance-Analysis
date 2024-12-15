@@ -24,19 +24,26 @@ By analyzing these metrics, Goodcabs seeks to identify areas for improvement and
 
 The SQL scripts in this repository provide insights into various performance metrics, including:
 
-### Top & Bottom Performing Cities: Identifying cities with the highest and lowest trip volumes.
+### Top & Bottom Performing Cities:
+ Identifying cities with the highest and lowest trip volumes.
 
-### Average Fare and Distance Per Trip: Analyzing fare and distance metrics by city.
+### Average Fare and Distance Per Trip: 
+Analyzing fare and distance metrics by city.
 
-### Total Revenue by City: Calculating total revenue generated in each city.
+### Total Revenue by City: 
+Calculating total revenue generated in each city.
 
-### Driver and Passenger Ratings: Evaluating average ratings for drivers and passengers across different cities.
+### Driver and Passenger Ratings: 
+Evaluating average ratings for drivers and passengers across different cities.
 
-### New vs. Repeated Customers: Comparing ratings and performance metrics for new and repeat passengers.
+### New vs. Repeated Customers:
+Comparing ratings and performance metrics for new and repeat passengers.
 
-### Weekend vs. Weekday Demand: Analyzing trip demand patterns based on the day of the week.
+### Weekend vs. Weekday Demand: 
+Analyzing trip demand patterns based on the day of the week.
 
-### Monthly Performance Evaluation: Assessing performance against targets for new passengers and total trips.
+### Monthly Performance Evaluation: 
+Assessing performance against targets for new passengers and total trips.
 
 These analyses are crucial for understanding the operational landscape of Goodcabs and making data-driven decisions.
 
@@ -44,15 +51,20 @@ These analyses are crucial for understanding the operational landscape of Goodca
 
 The repository also includes Power BI reports that visualize key performance indicators (KPIs) and trends. The reports cover:
 
-### Total Revenue and Trips: Overview of total revenue, trips, and trip distance.
+### Total Revenue and Trips: 
+Overview of total revenue, trips, and trip distance.
 
-### Fare Analysis by City: Comparison of average fares and fare per kilometer across cities.
+### Fare Analysis by City: 
+Comparison of average fares and fare per kilometer across cities.
 
-### Growth Rate and Revenue Trends: Monthly growth rates and revenue trends.
+### Growth Rate and Revenue Trends:
+Monthly growth rates and revenue trends.
 
-### Passenger Reports: Insights into total passengers, repeated passengers, and passenger distribution by city.
+### Passenger Reports:
+Insights into total passengers, repeated passengers, and passenger distribution by city.
 
-### Target Achievement Reports: Evaluation of targeted new passengers and trips against actual performance.
+### Target Achievement Reports:
+Evaluation of targeted new passengers and trips against actual performance.
 
 
 ## Conclusion
