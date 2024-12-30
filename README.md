@@ -67,6 +67,8 @@ Monthly growth rates and revenue trends.
 Insights into total passengers, repeated passengers, and passenger distribution by city.
 
 ### Target Achievement Reports:
+![Target](https://github.com/user-attachments/assets/911741bf-dc23-46b7-afcb-38c3c066d6bb)
+
 Evaluation of targeted new passengers and trips against actual performance.
 
 
