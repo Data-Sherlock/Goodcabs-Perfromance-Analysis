@@ -58,7 +58,7 @@ Overview of total revenue, trips, and trip distance.
 Comparison of average fares and fare per kilometer across cities.
 
 ### Growth Rate and Revenue Trends:
-
+![Revenue](https://github.com/user-attachments/assets/39060dab-02f6-46dc-9b87-4cade055941e)
 Monthly growth rates and revenue trends.
 
 ### Passenger Reports:
