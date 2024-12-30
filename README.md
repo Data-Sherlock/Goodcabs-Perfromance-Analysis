@@ -62,6 +62,7 @@ Comparison of average fares and fare per kilometer across cities.
 Monthly growth rates and revenue trends.
 
 ### Passenger Reports:
+![Passenger](https://github.com/user-attachments/assets/0ef46a57-1ae7-4490-94ed-02f650799994)
 
 Insights into total passengers, repeated passengers, and passenger distribution by city.
 
